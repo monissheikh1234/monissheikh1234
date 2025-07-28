@@ -2,7 +2,7 @@
   <img src="https://superblog.supercdn.cloud/site_cuid_clvc4016q001j13bhaleswmt1/images/childs-face-lit-up-amazement-as-they-witness-their-code-come-life-screen-showcasing216520-181676-1735554539682-compressed.jpg" alt="Coding boy" width="300"/>
 </p>
 
-<h1 align="center">👋 Hi, I’m **YourName**</h1>
+<h1 align="center">👋 Hi, I’m Monis Sheikh </h1>
 <h3 align="center">Full‑Stack Dev · AI/ML Enthusiast · Open‑Source Contributor</h3>
 
 <br/>
