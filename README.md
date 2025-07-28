@@ -57,7 +57,7 @@
 ## 📫 Let’s Connect!
 
 **LinkedIn:**<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-monissheikh1234-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/monissheikh1234](https://www.linkedin.com/in/monis-mustaque-sheikh-756096276/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-monissheikh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/monissheikh1234](https://www.linkedin.com/in/monis-mustaque-sheikh-756096276/))
 
 <br/>
 
