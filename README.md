@@ -24,7 +24,7 @@
 
 | Project | Description | ⭐ |
 |--------|-------------|---|
-| **[CureAI](https://github.com/monissheikh1234/CureAI)** | AI‑powered medical history management platform | ![GitHub stars](https://img.shields.io/github/stars/monissheikh1234/CureAI?style=social) |
+| **[CureAI](https://github.com/monissheikh1234/Cure-AI)** | AI‑powered medical history management platform | ![GitHub stars](https://img.shields.io/github/stars/monissheikh1234/CureAI?style=social) |
 | **[Gym Posture Detector](https://github.com/monissheikh1234/Gym-Posture-Detection-and-Correction-using-OpenCV)** | Real-time posture correction using OpenCV | ![GitHub stars](https://img.shields.io/github/stars/monissheikh1234/Gym-Posture-Detection-and-Correction-using-OpenCV?style=social) |
 | **[AI Disease Predictor](https://github.com/monissheikh1234/AI_Disease_predictor)** | Diagnostic predictions using ML models | ![GitHub stars](https://img.shields.io/github/stars/monissheikh1234/AI_Disease_predictor?style=social) |
 
