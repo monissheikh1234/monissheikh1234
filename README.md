@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I’m Monis Sheikh </h1>
 <h3 align="center">Full‑Stack Developer · AI Enthusiast · Open‑Source Contributor</h3>
 
-<br/>
+<br/> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0a74da&size=22&center=true&width=600&lines=Building+innovative+AI+apps...;Automating+AI-backed+tools...;Solving+real-world+problems..." alt="Typing animation"/>
